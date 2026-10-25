@@ -1,0 +1,8 @@
+target/
+.maven-cache/
+.env*
+!.env.example
+.idea/
+.vscode/
+*.iml
+*.log

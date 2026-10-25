@@ -1,0 +1,6 @@
+.git
+.gitignore
+.maven-cache
+target
+.env
+*.log
